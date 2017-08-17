@@ -8,8 +8,9 @@
 
 |  Specs | Input  | Output  |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+|Require only numerical values |L-sdjflk|Error!|
+|Numbers correspond with correct numeral   |5, 1   |V, I   |
+|Display correct roman numeral   |4   |IV   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
