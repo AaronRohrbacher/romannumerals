@@ -2,7 +2,7 @@
 
 #### _Create a form to translate numbers into roman numerals, 8.17.2017_
 
-#### By _Riki Montgomery and ..._
+#### By _Riki Montgomery and Aaron Rohrbacher_
 
 ## Specs
 
@@ -11,25 +11,20 @@
 |Require only numerical values |L-sdjflk|Error!|
 |Numbers correspond with correct numeral   |5, 1   |V, I   |
 |Display correct roman numeral   |4   |IV   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Display the number 3 using math   |3   |III   |
+
 
 ## Setup/Installation Requirements
 
-* _..._
-
-
-_..._
+_Open index.html in your favorite web browser._
 
 ## Known Bugs
 
-_..._
+_Is it possible to get the string result into our business logic._
 
 ## Support and contact details
 
-_If you have questions or comments, please contact [Riki](mostriki820@gmail.com) or [...](...@gmail.com)_
+_If you have questions or comments, please contact [Riki](mostriki820@gmail.com) or [Aaron](arjazz@icloud.com)_
 
 ## Technologies Used
 
